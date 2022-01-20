@@ -1,5 +1,7 @@
 # Azure-Covid-Web-app
-Get Covid related info at one place
-{Since I have used 100% of Azure for Students credit, the webapp might not work}
+### Get Covid related info at one place
+
+{Since I have used 100% of my Azure for Students credit, the webapp might not work}
+
 <img src="webapp.png">
 <img src="Screenshot 2022-01-18 203248.png">
